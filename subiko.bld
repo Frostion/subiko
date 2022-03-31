@@ -1,0 +1,49 @@
+[option]
+keep
+
+[name]
+subiko
+
+[source]
+subiko.b2c
+
+[author]
+Frost Sheridan
+
+[icon]
+subiko_icon.bmp
+
+[splash.text]
+play sudoku puzzles on your cybiko! features auto candidates and other quality-of-life improvements.
+
+controls:
+<d-pad> move cursor to select a cell
+<number> add or remove candidates to the cell
+<shift+number> set the cell's number
+<del> clear the cell
+<A> auto-fill all cells with only 1 candidate
+<C> find all cells' candidates
+<X> exit game
+
+[help]
+<d-pad> move cursor to select a cell
+<number> add or remove candidates to the cell
+<shift+number> set the cell's number
+<del> clear the cell
+<A> auto-fill all cells with only 1 candidate
+<C> find all cells' candidates
+<X> exit game
+
+[type]
+game
+
+[files]
+easy.spp
+medium.spp
+hard.spp
+
+[pic=bkg.pic]
+subiko_bkg.bmp
+
+[pic=think.pic]
+subiko_think.bmp
